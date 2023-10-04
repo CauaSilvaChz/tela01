@@ -11,6 +11,10 @@
     height: 800px;
 }
 
+main{
+    background-color: #ccc;
+}
+
 header, #img_fundo{
     width: 400px;
     height: 360px;
